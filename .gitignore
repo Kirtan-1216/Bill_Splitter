@@ -1,0 +1,10 @@
+# Secret configuration files (API keys)
+.streamlit/secrets.toml
+
+# Virtual environment folders
+venv/
+.venv/
+
+# Python compiled bytecode cache
+__pycache__/
+*.pyc
